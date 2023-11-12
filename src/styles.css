@@ -39,7 +39,7 @@ section img.background {
   object-fit: cover;
   pointer-events: none;
   position: absolute;
-  top: 0;
+  top: 3.1rem;
   transform: translate(-50%, 0);
   width: 100vmax;
   z-index: -1;
@@ -48,9 +48,11 @@ section img.background {
 h1 {
   font-family: "Cormorant Garamond", serif;
   font-size: 7rem;
-  font-weight: 400;
+  font-weight: 500;
   line-height: 0.8;
   margin: 0;
+  margin-top: 6rem;
+  text-shadow: 2px -4px rgb(255, 255, 255);
 }
 
 h2 {

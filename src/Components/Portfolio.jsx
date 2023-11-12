@@ -33,26 +33,40 @@ const projectList = [
   {
     title: "My Portfolio",
     description:
-      "My Personal Portfolio website,which I modified while learning from Microsoft.",
+      "My portfolio website, which I modified while learning from Microsoft (credits goes to Microsoft :)",
     url: "https://adisuyash.github.io",
   },
   {
-    title: "Web Development for Beginners",
-    description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    title: "Drum Kit",
+    description: "Drum Kit is a music producing kit, which I made while learning JavaScript.",
+    url: "http://adisuyash.github.io/drum-kit/",
   },
   {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    title: "Anime Town",
+    description: "An Anime listing website, built on TailwindCSS.",
+    url: "https://adisuyash.github.io/anime-town/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Rock Paper Scissors",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "This is a Rock Paper Scissors project made by me while I was learning Web Dev from The Odin Project.",
+    url: "https://adisuyash.github.io/rock-paper-scissors",
+  },
+  {
+    title: "Odin Indian Recipes",
+    description:
+      "This project was made when I was learning Web Dev and have to submit a project on from The Odin Project.",
+    url: "https://adisuyash.github.io/odin-indian-recipes/",
+  },
+  {
+    title: "Gymnasium",
+    description: "A simple GYM website which I made while learning from Code with Harry",
+    url: "https://adisuyash.github.io/gymnasium",
+  },
+  {
+    title: "Indian Clock",
+    description: "A simple Indian Time Zone website which I made while learning JavaScript.",
+    url: "https://adisuyash.github.io/indian-time-zone",
   },
 ];
 

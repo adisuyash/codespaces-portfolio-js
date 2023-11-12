@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Aditya Gupta",
-  title: "Web Developer & Content Creator",
+  title: "Web Developer",
   email: "adityasuyashgupta@gmail.com",
   gitHub: "adisuyash",
   instagram: "adiisuyash",

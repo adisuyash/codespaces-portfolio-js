@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm an undergrad pursuing my Bachelor of Technology (BTech) in Computer Science. I enjoy creating simple and cool website.";
+  "I'm an undergrad pursuing my Bachelor of Technology (BTech) in Computer Science. I enjoy creating simple and cool websites.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
