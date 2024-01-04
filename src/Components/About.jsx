@@ -37,8 +37,8 @@ const skillsList = ["HTML 5", "CSS 3", "JavaScript (ES6+)", "TailwindCSS", "Pyth
  * how you best work, or even a quote. This will help someone learn more
  * about you on a professional level.
  */
-const detailOrQuote = "I am also passionate about DevOps & Web3.";
-const detailOrQuote2 = "I love helping others in Tech so feel free to reach out me :)";
+const detailOrQuote = "I am also passionate about Web3 & DevOps.";
+const detailOrQuote2 = "I'm a Community Manager at HackQuest & I love to help folks in Tech, so feel free to reach out to me :)";
 
 const About = () => {
   return (
